@@ -1,0 +1,5 @@
+nav{display: flex;}
+ul{
+    gap: 20px;
+}
+li{list-style-type: disc;}
